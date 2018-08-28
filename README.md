@@ -1,1 +1,2 @@
 # Sentiment-Analysis
+Sentimental analysis is the emerging concept which encloses the opinion and attitude of a person. It is interfaced with some techniques and tools through which mining of relevant data is done and emotional or opinion results are produced. It centers on the opinion of a person whether it is negative or positive on certain topic of discussions in a group or team. This paper considers a discussion forum that is WhatsApp group chat for certain time period that analyze the sentiments of the group through chats that are mined from WhatsApp chat group.
